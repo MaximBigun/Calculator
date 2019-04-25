@@ -1,0 +1,12 @@
+D:\hirez\Calculator\Test kkal\bin\Debug\Test kkal.dll
+D:\hirez\Calculator\Test kkal\bin\Debug\Test kkal.pdb
+D:\hirez\Calculator\Test kkal\bin\Debug\Calculator.exe
+D:\hirez\Calculator\Test kkal\bin\Debug\nunit.framework.dll
+D:\hirez\Calculator\Test kkal\bin\Debug\Calculator.pdb
+D:\hirez\Calculator\Test kkal\bin\Debug\Calculator.exe.config
+D:\hirez\Calculator\Test kkal\bin\Debug\nunit.framework.xml
+D:\hirez\Calculator\Test kkal\obj\Debug\Test kkal.csprojAssemblyReference.cache
+D:\hirez\Calculator\Test kkal\obj\Debug\Test kkal.csproj.CoreCompileInputs.cache
+D:\hirez\Calculator\Test kkal\obj\Debug\Test kkal.csproj.CopyComplete
+D:\hirez\Calculator\Test kkal\obj\Debug\Test kkal.dll
+D:\hirez\Calculator\Test kkal\obj\Debug\Test kkal.pdb

@@ -1,0 +1,12 @@
+D:\hirez\Calculator\test fail\bin\Debug\test fail.dll
+D:\hirez\Calculator\test fail\bin\Debug\test fail.pdb
+D:\hirez\Calculator\test fail\bin\Debug\Calculator.exe
+D:\hirez\Calculator\test fail\bin\Debug\nunit.framework.dll
+D:\hirez\Calculator\test fail\bin\Debug\Calculator.pdb
+D:\hirez\Calculator\test fail\bin\Debug\Calculator.exe.config
+D:\hirez\Calculator\test fail\bin\Debug\nunit.framework.xml
+D:\hirez\Calculator\test fail\obj\Debug\test fail.csprojAssemblyReference.cache
+D:\hirez\Calculator\test fail\obj\Debug\test fail.csproj.CoreCompileInputs.cache
+D:\hirez\Calculator\test fail\obj\Debug\test fail.csproj.CopyComplete
+D:\hirez\Calculator\test fail\obj\Debug\test fail.dll
+D:\hirez\Calculator\test fail\obj\Debug\test fail.pdb

@@ -1,0 +1,6 @@
+D:\hirez\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\hirez\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\hirez\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\hirez\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\hirez\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\hirez\Calculator\Calculator\obj\Debug\Calculator.pdb
